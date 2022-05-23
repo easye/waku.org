@@ -1,6 +1,7 @@
 ---
 title: An amazing blog post
 category: research
+navorder: 1
 ---
 # Saepe ne iura
 

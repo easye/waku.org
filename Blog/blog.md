@@ -4,6 +4,7 @@ Research log
 We take inspiration from core internet architecture, existing survey work and other efforts that 
 have been done to decompose the problem into orthogonal pieces.
 
+```logos-paragraph
 Research entries
 
     May 09, 2022
@@ -29,6 +30,7 @@ Research entries
     
     November 10, 2020
     [Talk] Vac, Waku v2 and Ethereum Messaging
+    ```
     
     September 28, 2020
     Waku v2 Update

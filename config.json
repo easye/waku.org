@@ -15,9 +15,13 @@
     "fontFamily":"monospace"
   },
   "assets":{
-    "logo":"statics/logos-logo.svg"
+    "logo":"static-assets/logos-logo.svg"
   },
   "navigation":{
-    "home":"index.md"
+    "home":"main.md",
+    "fileOrdersInSidenav": [
+      "main.md"
+    ],
+    "folderOrdersInSidenav": []
   }
 }

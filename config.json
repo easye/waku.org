@@ -2,8 +2,8 @@
   "theme":{
     "palettes":{
       "dark":{
-        "background":"#000000",
-        "text":"#FFFFFF",
+        "background":"#1F1E42",
+        "text":"#F3DDC3",
         "highlight":"#7187FF"
       },
       "light":{

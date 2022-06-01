@@ -2,26 +2,42 @@
   "theme":{
     "palettes":{
       "dark":{
-        "background":"#09212A",
-        "text":"#5CC9FA",
-        "highlight":"#7187FF"
+        "background":"#1F1E42",
+        "text":"#F3DDC3",
+        "accentActive":"#7187FF",
+        "accentMute":"#2D2C4F"
       },
       "light":{
-        "background":"#FFFFFF",
-        "text":"#000000",
-        "highlight":"#7187FF"
+        "background":"#F3DDC3",
+        "text":"#1F1E42",
+        "accentActive":"#7187FF",
+        "accentMute":"#E5D5C2"
       }
     },
-    "fontFamily":"monospace"
+    "fontFamily":"monospace",
+    "codeTheme":"prism/duotone-dark"
   },
-  "assets":{
-    "logo":"static-assets/waku-logo.svg"
-  },
+  "template": "default",
+  "static_assets_folder": "static-assets",
   "navigation":{
     "home":"main.md",
     "fileOrdersInSidenav": [
       "main.md"
     ],
-    "folderOrdersInSidenav": []
+    "folderOrdersInSidenav": [
+    ]
+  },
+  "ds_id": "waku",
+  "seo": {
+    "title": "WAKU",
+    "description": "Waku is the communication layer for Web3. Decentralized communication that scales. Private, secure, and it runs anywhere.",
+    "image": "logos-site-preview-image.png",
+    "url": "https://waku-org-v0.vercel.app",
+    "social_media": [
+      {
+        "provider": "twitter",
+        "handler": "ethstatus"
+      }
+    ]
   }
 }

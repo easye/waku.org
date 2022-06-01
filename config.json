@@ -30,9 +30,13 @@
   "navigation":{
     "home":"main.md",
     "fileOrdersInSidenav": [
-      "main.md"
+      "main.md",
+      "about.md"
     ],
     "folderOrdersInSidenav": [
+      "try",
+      "implementations",
+      "blog"
     ],
     "external_links": [
       {

@@ -33,6 +33,23 @@
       "main.md"
     ],
     "folderOrdersInSidenav": [
+    ],
+    "external_links": [
+      {
+        "text": "go-waku",
+        "url": "https://github.com/status-im/go-waku",
+        "category": "Install"
+      },
+      {
+        "text": "nim-waku",
+        "url": "https://github.com/status-im/nim-waku/",
+        "category": "Install"
+      },
+     {
+        "text": "js-waku",
+        "url": "https://github.com/status-im/js-waku",
+        "category": "Install"
+      }
     ]
   },
   "ds_id": "waku",
@@ -44,7 +61,15 @@
     "social_media": [
       {
         "provider": "twitter",
-        "handler": "ethstatus"
+        "handler": "vacp2p"
+      },
+      {
+        "provider": "discord",
+        "handler": "ev9GQGJ9Dg"
+      },
+      {
+        "provider": "github",
+        "handler": "vacp2p"
       }
     ]
   }

@@ -26,7 +26,7 @@
       "targetPath": "blog",
       "embed": false
     }
-  ]
+  ],
   "navigation":{
     "home":"main.md",
     "fileOrdersInSidenav": [

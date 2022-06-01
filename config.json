@@ -19,6 +19,14 @@
   },
   "template": "default",
   "static_assets_folder": "static-assets",
+  "external_sources": [
+    {
+      "url": 'https://github.com/vacp2p/vac.dev/archive/refs/heads/develop.zip',
+      "sourcePath": "_posts",
+      "targetPath": "blog",
+      "embed": false
+    }
+  ]
   "navigation":{
     "home":"main.md",
     "fileOrdersInSidenav": [

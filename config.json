@@ -5,13 +5,13 @@
         "background":"#1F1E42",
         "text":"#F3DDC3",
         "accentActive":"#7187FF",
-        "accentMute":"#2D2C4F"
+        "accentMute":"#49445C"
       },
       "light":{
         "background":"#F3DDC3",
         "text":"#1F1E42",
         "accentActive":"#7187FF",
-        "accentMute":"#E5D5C2"
+        "accentMute":"#C9B7A9"
       }
     },
     "fontFamily":"monospace",

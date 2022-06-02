@@ -61,7 +61,7 @@
     "title": "WAKU",
     "description": "Waku is the communication layer for Web3. Decentralized communication that scales. Private, secure, and it runs anywhere.",
     "image": "logos-site-preview-image.png",
-    "url": "https://waku-org-v0.vercel.app",
+    "url": "https://staging.waku.org",
     "social_media": [
       {
         "provider": "twitter",

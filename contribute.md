@@ -19,7 +19,7 @@ By integrating Waku in your application,
 you can contribute to the ecosystem by reporting bugs and missing features
 but also inspire other developers in using Waku for various use cases.
 
-[Get started now](/platform)
+[Get started now](/platform).
 
 ## Contribute as a Developer
 

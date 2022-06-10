@@ -51,6 +51,16 @@
         "text": "Careers",
         "url": "https://status.im/our_team/jobs.html",
         "category": "Links"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/j5pGbn7MHZ",
+        "category": "Connect"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/waku_org",
+        "category": "Connect"
       }
     ]
   },

@@ -26,12 +26,12 @@ Docs:
 
 It is possible to integrate Waku as a library.
 
-| Your Application's language | What to Use              | Links                                                                                 | 
-|-----------------------------|--------------------------|---------------------------------------------------------------------------------------|
-| Nim                         | nwaku as a library       | [repository](https://github.com/status-im/nwaku/tree/master/waku/v2)                  |
-| Go                          | go-waku as a library     | [repository](https://github.com/status-im/go-waku/tree/master/waku/v2)                |
-| C                           | go-waku using C-Bindings | [C example](https://github.com/status-im/go-waku/tree/master/examples/c-bindings)     |
-| C#                          | go-waku using C-Bindings | [C# example](https://github.com/status-im/go-waku/tree/master/examples/waku-csharp)   |
+| Your Application's language | What to Use              | Links                                                                               | 
+|-----------------------------|--------------------------|-------------------------------------------------------------------------------------|
+| Nim                         | nwaku as a library       | [repository](https://github.com/status-im/nwaku/tree/master/waku/v2)                |
+| Go                          | go-waku as a library     | [tutorials](https://github.com/status-im/go-waku#tutorials-and-documentation)       |
+| C                           | go-waku using C-Bindings | [C example](https://github.com/status-im/go-waku/tree/master/examples/c-bindings)   |
+| C#                          | go-waku using C-Bindings | [C# example](https://github.com/status-im/go-waku/tree/master/examples/waku-csharp) |
 
 ## Browser Application
 
@@ -50,5 +50,5 @@ You can run Waku on mobile phones, Android and iOS are supported:
 |-----------------------------|----------------------------|--------------------------------------------------------------------------------------------|
 | Swift (iOS)                 | go-waku using C-Bindings   | [Swift example](https://github.com/status-im/go-waku/tree/master/examples/swift-waku)      |
 | Kotlink (Android)           | go-waku using C-Bindings   | [Kotlin example](https://github.com/status-im/go-waku/tree/master/examples/android-kotlin) |
-| Go                          | go-waku as a library       | [repository](https://github.com/status-im/go-waku/tree/master/waku/v2)                     |
+| Go                          | go-waku as a library       | [tutorials](https://github.com/status-im/go-waku#tutorials-and-documentation)              |
 | React Native                | go-waku as a native module | [repository](https://github.com/status-im/waku-react-native)                               |

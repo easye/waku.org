@@ -34,15 +34,18 @@
     "external_links": [
       {
         "text": "Blog",
-        "url": "https://vac.dev/research"
+        "url": "https://vac.dev/research",
+        "category": "Links"
       },
       {
         "text": "Vac",
-        "url": "https://vac.dev/"
+        "url": "https://vac.dev/",
+        "category": "Links"
       },
       {
         "text": "Vac RFCs",
-        "url": "https://rfc.vac.dev/"
+        "url": "https://rfc.vac.dev/",
+        "category": "Links"
       }
     ]
   },

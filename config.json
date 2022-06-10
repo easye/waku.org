@@ -71,7 +71,7 @@
       },
       {
         "provider": "github",
-        "handler": "status-im"
+        "handler": "status-im/?q=waku&type=&language=&sort="
       },
       {
         "provider": "telegram",

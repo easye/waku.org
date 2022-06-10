@@ -6,7 +6,7 @@ Waku is the communication layer for Web3. Decentralized communication that scale
 
 Private. Secure. Runs anywhere.
 
-[Try Waku](https://waku.org/node)
+[Check the docs](https://waku.org/docs/waku)
 
 ## What is Waku?
 
@@ -33,7 +33,7 @@ Waku v2 is a complete rewrite. Its relay protocol implements pub/sub over libp2p
 
 This makes it ideal for running a p2p protocol on mobile, or in other similarly resource-restricted environments.
 
-[Learn more about Waku](https://waku.org/about)
+[Learn more about Waku](https://waku.org/docs/waku)
 
 ## Who is using Waku?
 
@@ -50,11 +50,35 @@ WalletConnect v2 is using Waku v2 for decentralized messaging infrastructure.
 <!--
 ### Railgun
 
-TODO 
+// TODO: Franck is getting a one-liner from Railgun team.
 -->
 
 ## Implementations
 
-- [nwaku](/implementations/nim)
-- [js-waku](/implementations/js)
-- [go-waku](/implementations/go)
+<!-- TODO: This can redirect to https://waku.org/docs/xx once the doc website for each implementation is ready -->
+
+### nwaku
+
+A nim implementation of the Waku v2 protocol.
+Reference client and flagship implementation.
+
+[nwaku repository](https://github.com/status-im/nwaku).
+
+### js-waku
+
+A JavaScript implementation for browser environments.
+
+[js-waku docs](https://docs.wakuconnect.dev/).
+
+### go-waku
+
+A Go implementation for native integration in go applications,
+C-Bindings are also available with C#, Swift and Kotlin examples.
+
+[go-waku repository](https://github.com/status-im/go-waku)
+
+### @waku/react-native
+
+Integrate Waku in your React Native app using go-waku for mobile.
+
+[@waku/react-native repo](https://github.com/status-im/waku-react-native).

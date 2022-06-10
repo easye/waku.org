@@ -55,11 +55,13 @@ Status is a secure messaging app, crypto wallet, and Web3 browser built with sta
 WalletConnect v2 is using Waku v2 for decentralized messaging infrastructure.
 [Visit WalletConnect](https://walletconnect.com/)
 
-<!--
-### Railgun
 
-// TODO: Franck is getting a one-liner from Railgun team.
--->
+### RAILGUN
+
+RAILGUN is a privacy system for Ethereum that shields your assets in your own smart contract wallet.
+RAILGUN uses Waku when offering the ETH gas payments to other users,
+privately signaling fees and offers for gas payment relayers to keep the privacy & anonymity of your stablecoin & token transactions.
+[Visit RAILGUN](https://railgun.org/)
 
 ## Implementations
 

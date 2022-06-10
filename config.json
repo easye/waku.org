@@ -74,6 +74,10 @@
       {
         "provider": "github",
         "handler": "status-im"
+      },
+      {
+        "provider": "telegram",
+        "handler": "waku_org"
       }
     ]
   }

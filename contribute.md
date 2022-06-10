@@ -21,7 +21,7 @@ but also inspire other developers in using Waku for various use cases.
 
 [Get started now](/platform).
 
-## Contribute as a Developer
+## Contribute to the Waku Implementations
 
 All Waku implementations are open source,
 Pull Requests and welcome and encouraged.

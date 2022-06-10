@@ -1,8 +1,8 @@
 ---
-title: Integrate Waku in Your Application
+title: Use Waku in Your Application
 ---
 
-# Integrate Waku in Your Application
+# Use Waku in Your Application
 
 Interested in using Waku to add private, secure, censorship-free communication
 to your Application?

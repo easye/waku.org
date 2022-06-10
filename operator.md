@@ -2,6 +2,8 @@
 title: Run a Waku Node
 ---
 
+# Run a Waku Node
+
 By running your own node you provide additional nodes for the Waku Network.
 
 In the future, we intend to design and implement incentivization within some Waku protocols,

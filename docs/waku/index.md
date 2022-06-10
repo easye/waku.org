@@ -2,6 +2,8 @@
 title: Waku Docs
 ---
 
+# Waku Docs
+
 Waku is a decentralized, censorship-resistant, network and protocol family.
 It enables you to add communication features to your dApp in a decentralized manner,
 ensuring to your users that they will not be censored or de-platformed.

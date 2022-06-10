@@ -1,6 +1,8 @@
 ---
-Contribute to Waku
+title: Contribute to Waku
 ---
+
+# Contribute to Waku
 
 You can contribute to Waku in several manners:
 

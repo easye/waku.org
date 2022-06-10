@@ -3,7 +3,7 @@ title: About
 category: page
 ---
 
-## About
+# About
 
 Communication today is rife with third party interference.
 From censorship and deplatforming, to rent seeking intermediaries, to the misuse of data in the surveillance economy.

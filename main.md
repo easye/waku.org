@@ -65,8 +65,6 @@ privately signaling fees and offers for gas payment relayers to keep the privacy
 
 ## Implementations
 
-<!-- TODO: This can redirect to https://waku.org/docs/xx once the doc website for each implementation is ready -->
-
 ### nwaku
 
 A nim implementation of the Waku v2 protocol.

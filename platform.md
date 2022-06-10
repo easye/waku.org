@@ -13,8 +13,6 @@ Here are your options:
 You can run your own nwaku (or go-waku) node alongside your application
 and access the Waku network using the available JSON RPC API.
 
-<!-- TODO: once docs website are up, use links to those -->
-
 Docs:
 - [Use nwaku's JSON RPC API](https://github.com/status-im/nwaku/blob/master/docs/tutorial/jsonrpc-api.md)
 
@@ -39,7 +37,6 @@ It is possible to integrate Waku as a library.
 
 You can use js-waku to run a Waku node in the browser.
 
-<!-- TODO: Move docs to /docs/js -->
 Docs: https://docs.wakuconnect.dev/
 
 ## Mobile Application

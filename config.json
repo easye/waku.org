@@ -34,8 +34,15 @@
     "external_links": [
       {
         "text": "Blog",
-        "url": "https://staging.vac.dev/research",
-        "category": "Links"
+        "url": "https://vac.dev/research"
+      },
+      {
+        "text": "Vac",
+        "url": "https://vac.dev/"
+      },
+      {
+        "text": "Vac RFCs",
+        "url": "https://rfc.vac.dev/"
       }
     ]
   },
@@ -44,7 +51,7 @@
     "title": "WAKU",
     "description": "Waku is the communication layer for Web3. Decentralized communication that scales. Private, secure, and it runs anywhere.",
     "image": "waku-site-preview-image.png",
-    "url": "https://staging.waku.org",
+    "url": "https://waku.org",
     "social_media": [
       {
         "provider": "twitter",

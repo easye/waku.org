@@ -2,6 +2,8 @@
 title: Integrate Waku in Your Application
 ---
 
+# Integrate Waku in Your Application
+
 Interested in using Waku to add private, secure, censorship-free communication
 to your Application?
 Here are your options:
@@ -13,9 +15,8 @@ Here are your options:
 You can run your own nwaku (or go-waku) node alongside your application
 and access the Waku network using the available JSON RPC API.
 
-<!-- TODO: once docs website are up, use links to those -->
-
 Docs:
+
 - [Use nwaku's JSON RPC API](https://github.com/status-im/nwaku/blob/master/docs/tutorial/jsonrpc-api.md)
 
 ### HTTP REST API
@@ -26,12 +27,12 @@ Docs:
 
 It is possible to integrate Waku as a library.
 
-| Your Application's language | What to Use              | Links                                                                                 | 
-|-----------------------------|--------------------------|---------------------------------------------------------------------------------------|
-| Nim                         | nwaku as a library       | [repository](https://github.com/status-im/nwaku/tree/master/waku/v2)                  |
-| Go                          | go-waku as a library     | [repository](https://github.com/status-im/go-waku/tree/master/waku/v2)                |
-| C                           | go-waku using C-Bindings | [C example](https://github.com/status-im/go-waku/tree/master/examples/c-bindings)     |
-| C#                          | go-waku using C-Bindings | [C# example](https://github.com/status-im/go-waku/tree/master/examples/waku-csharp)   |
+| Your Application's language | What to Use              | Links                                                                               |
+| --------------------------- | ------------------------ | ----------------------------------------------------------------------------------- |
+| Nim                         | nwaku as a library       | [repository](https://github.com/status-im/nwaku/tree/master/waku/v2)                |
+| Go                          | go-waku as a library     | [tutorials](https://github.com/status-im/go-waku#tutorials-and-documentation)       |
+| C                           | go-waku using C-Bindings | [C example](https://github.com/status-im/go-waku/tree/master/examples/c-bindings)   |
+| C#                          | go-waku using C-Bindings | [C# example](https://github.com/status-im/go-waku/tree/master/examples/waku-csharp) |
 
 ## Browser Application
 
@@ -39,7 +40,6 @@ It is possible to integrate Waku as a library.
 
 You can use js-waku to run a Waku node in the browser.
 
-<!-- TODO: Move docs to /docs/js -->
 Docs: https://docs.wakuconnect.dev/
 
 ## Mobile Application
@@ -47,8 +47,8 @@ Docs: https://docs.wakuconnect.dev/
 You can run Waku on mobile phones, Android and iOS are supported:
 
 | Your Application's language | What to Use                | Links                                                                                      |
-|-----------------------------|----------------------------|--------------------------------------------------------------------------------------------|
+| --------------------------- | -------------------------- | ------------------------------------------------------------------------------------------ |
 | Swift (iOS)                 | go-waku using C-Bindings   | [Swift example](https://github.com/status-im/go-waku/tree/master/examples/swift-waku)      |
 | Kotlink (Android)           | go-waku using C-Bindings   | [Kotlin example](https://github.com/status-im/go-waku/tree/master/examples/android-kotlin) |
-| Go                          | go-waku as a library       | [repository](https://github.com/status-im/go-waku/tree/master/waku/v2)                     |
+| Go                          | go-waku as a library       | [tutorials](https://github.com/status-im/go-waku#tutorials-and-documentation)              |
 | React Native                | go-waku as a native module | [repository](https://github.com/status-im/waku-react-native)                               |

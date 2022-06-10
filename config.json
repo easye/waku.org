@@ -1,58 +1,41 @@
 {
-  "theme":{
-    "palettes":{
-      "dark":{
-        "background":"#1F1E42",
-        "text":"#F3DDC3",
-        "accentActive":"#7187FF",
-        "accentMute":"#49445C"
+  "theme": {
+    "palettes": {
+      "dark": {
+        "background": "#1F1E42",
+        "text": "#F3DDC3",
+        "accentActive": "#7187FF",
+        "accentMute": "#49445C"
       },
-      "light":{
-        "background":"#F3DDC3",
-        "text":"#1F1E42",
-        "accentActive":"#7187FF",
-        "accentMute":"#C9B7A9"
+      "light": {
+        "background": "#F3DDC3",
+        "text": "#1F1E42",
+        "accentActive": "#7187FF",
+        "accentMute": "#C9B7A9"
       }
     },
-    "fontFamily":"monospace",
-    "codeTheme":"prism/duotone-dark"
+    "fontFamily": "monospace",
+    "codeTheme": "prism/duotone-dark"
   },
   "template": "default",
   "static_assets_folder": "static-assets",
-  "external_sources": [
-    {
-      "url": "https://github.com/vacp2p/vac.dev/archive/refs/heads/develop.zip",
-      "sourcePath": "_posts",
-      "targetPath": "blog",
-      "embed": false
-    }
-  ],
-  "navigation":{
-    "home":"main.md",
+  "navigation": {
+    "home": "main.md",
     "fileOrdersInSidenav": [
       "main.md",
-      "about.md"
+      "about.md",
+      "platform.md",
+      "operator.md",
+      "contribute.md"
     ],
     "folderOrdersInSidenav": [
-      "try",
-      "implementations",
-      "blog"
+      "docs"
     ],
     "external_links": [
       {
-        "text": "go-waku",
-        "url": "https://github.com/status-im/go-waku",
-        "category": "Install"
-      },
-      {
-        "text": "nim-waku",
-        "url": "https://github.com/status-im/nim-waku/",
-        "category": "Install"
-      },
-     {
-        "text": "js-waku",
-        "url": "https://github.com/status-im/js-waku",
-        "category": "Install"
+        "text": "Blog",
+        "url": "https://staging.vac.dev/research",
+        "category": "Links"
       }
     ]
   },
@@ -65,15 +48,19 @@
     "social_media": [
       {
         "provider": "twitter",
-        "handler": "vacp2p"
+        "handler": "waku_org"
       },
       {
         "provider": "discord",
-        "handler": "ev9GQGJ9Dg"
+        "handler": "j5pGbn7MHZ"
       },
       {
         "provider": "github",
-        "handler": "vacp2p"
+        "handler": "status-im"
+      },
+      {
+        "provider": "telegram",
+        "handler": "waku_org"
       }
     ]
   }

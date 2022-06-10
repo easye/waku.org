@@ -15,7 +15,8 @@ Waku is a suite of privacy-preserving, peer-to-peer messaging protocols.
 Waku **removes centralized third parties** from messaging,
 enabling private, secure, censorship-free communication with no single point of failure.
 
-Waku **provides privacy-preserving** capabilities, such as sender anonymity, metadata protection and unlinkability to personally identifiable information.
+Waku **provides privacy-preserving** capabilities,
+such as sender anonymity,metadata protection and unlinkability to personally identifiable information.
 
 Waku is designed for **generalized messaging**, enabling human-to-human, machine-to-machine or hybrid communication.
 
@@ -25,10 +26,11 @@ Waku runs everywhere: desktop, server, including **resource-restricted devices**
 
 The first version of Waku had its origins in the Whisper protocol,
 with optimizations for scalability and usability.
-Waku v2 is a complete rewrite. Its relay protocol implements pub/sub over libp2p, and also introduces additional capabilities:
+Waku v2 is a complete rewrite.
+Its relay protocol implements pub/sub over libp2p, and also introduces additional capabilities:
 
 1. Retrieving historical messages for mostly-offline devices.
-2. Adaptive nodes, allowing for heterogeneous nodes to contribute. 
+2. Adaptive nodes, allowing for heterogeneous nodes to contribute.
 3. Bandwidth preservation for light nodes.
 
 This makes it ideal for running a p2p protocol on mobile, or in other similarly resource-restricted environments.
@@ -41,42 +43,44 @@ You can
 
 - [Run a Waku node](/operator)
 - [Integrate Waku in your application](/platform)
-- [Contribute to Waku's research and development](/contribute)
+- [Contribute to Waku](/contribute)
 
 ## Who is using Waku?
 
 ### Status
 
 Status is a secure messaging app, crypto wallet, and Web3 browser built with state-of-the-art technology.
+
 [Visit Status](https://status.im/)
 
 ### WalletConnect
 
 WalletConnect v2 is using Waku v2 for decentralized messaging infrastructure.
+
 [Visit WalletConnect](https://walletconnect.com/)
 
-<!--
-### Railgun
+### RAILGUN
 
-// TODO: Franck is getting a one-liner from Railgun team.
--->
+RAILGUN is a privacy system for Ethereum that shields your assets in your own smart contract wallet.
+RAILGUN uses Waku when offering the ETH gas payments to other users,
+privately signaling fees and offers for gas payment relayers to keep the privacy & anonymity of your stablecoin & token transactions.
+
+[Visit RAILGUN](https://railgun.org/)
 
 ## Implementations
-
-<!-- TODO: This can redirect to https://waku.org/docs/xx once the doc website for each implementation is ready -->
 
 ### nwaku
 
 A nim implementation of the Waku v2 protocol.
 Reference client and flagship implementation.
 
-[nwaku repository](https://github.com/status-im/nwaku).
+[nwaku repository](https://github.com/status-im/nwaku)
 
 ### js-waku
 
 A JavaScript implementation for browser environments.
 
-[js-waku docs](https://docs.wakuconnect.dev/).
+[js-waku docs](https://docs.wakuconnect.dev/)
 
 ### go-waku
 
@@ -89,4 +93,4 @@ C-Bindings are also available with C#, Swift and Kotlin examples.
 
 Integrate Waku in your React Native app using go-waku for mobile.
 
-[@waku/react-native repo](https://github.com/status-im/waku-react-native).
+[@waku/react-native repo](https://github.com/status-im/waku-react-native)

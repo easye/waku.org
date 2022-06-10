@@ -71,6 +71,10 @@
       {
         "provider": "telegram",
         "handler": "waku_org"
+      },
+      {
+        "provider": "discourse",
+        "handler": "forum.vac.dev"
       }
     ]
   }

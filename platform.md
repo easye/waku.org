@@ -14,6 +14,7 @@ You can run your own nwaku (or go-waku) node alongside your application
 and access the Waku network using the available JSON RPC API.
 
 Docs:
+
 - [Use nwaku's JSON RPC API](https://github.com/status-im/nwaku/blob/master/docs/tutorial/jsonrpc-api.md)
 
 ### HTTP REST API
@@ -24,8 +25,8 @@ Docs:
 
 It is possible to integrate Waku as a library.
 
-| Your Application's language | What to Use              | Links                                                                               | 
-|-----------------------------|--------------------------|-------------------------------------------------------------------------------------|
+| Your Application's language | What to Use              | Links                                                                               |
+| --------------------------- | ------------------------ | ----------------------------------------------------------------------------------- |
 | Nim                         | nwaku as a library       | [repository](https://github.com/status-im/nwaku/tree/master/waku/v2)                |
 | Go                          | go-waku as a library     | [tutorials](https://github.com/status-im/go-waku#tutorials-and-documentation)       |
 | C                           | go-waku using C-Bindings | [C example](https://github.com/status-im/go-waku/tree/master/examples/c-bindings)   |
@@ -44,7 +45,7 @@ Docs: https://docs.wakuconnect.dev/
 You can run Waku on mobile phones, Android and iOS are supported:
 
 | Your Application's language | What to Use                | Links                                                                                      |
-|-----------------------------|----------------------------|--------------------------------------------------------------------------------------------|
+| --------------------------- | -------------------------- | ------------------------------------------------------------------------------------------ |
 | Swift (iOS)                 | go-waku using C-Bindings   | [Swift example](https://github.com/status-im/go-waku/tree/master/examples/swift-waku)      |
 | Kotlink (Android)           | go-waku using C-Bindings   | [Kotlin example](https://github.com/status-im/go-waku/tree/master/examples/android-kotlin) |
 | Go                          | go-waku as a library       | [tutorials](https://github.com/status-im/go-waku#tutorials-and-documentation)              |

@@ -19,7 +19,7 @@ Waku **provides privacy-preserving** capabilities, such as sender anonymity, met
 
 Waku is designed for **generalized messaging**, enabling human-to-human, machine-to-machine or hybrid communication.
 
-Waku is aimed at **resource-restricted devices**, such as mobile devices and browsers, but can adapt to any environment.
+Waku runs everywhere: desktop, server, including **resource-restricted devices**, such as mobile devices and browsers.
 
 ## How does it work?
 
@@ -37,21 +37,21 @@ This makes it ideal for running a p2p protocol on mobile, or in other similarly 
 
 ## Who is using Waku?
 
-### Waku Connect
-
-The communication layer for Ethereum. 
-A tech stack enabling decentralized communication between DApps and people.
-[Visit Waku Connect](https://wakuconnect.dev/)
-
 ### Status
 
-Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology.
+Status is a secure messaging app, crypto wallet, and Web3 browser built with state-of-the-art technology.
 [Visit Status](https://status.im/)
 
 ### WalletConnect
 
 WalletConnect v2 is using Waku v2 for decentralized messaging infrastructure.
 [Visit WalletConnect](https://walletconnect.com/)
+
+<!--
+### Railgun
+
+TODO 
+-->
 
 ## Implementations
 

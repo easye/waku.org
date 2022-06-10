@@ -35,6 +35,14 @@ This makes it ideal for running a p2p protocol on mobile, or in other similarly 
 
 [Learn more about Waku](https://waku.org/docs/waku)
 
+## Use Waku Now
+
+You can
+
+- [Run a Waku node](/operator)
+- [Integrate Waku in your application](/platform)
+- [Contribute to Waku's research and development](/contribute)
+
 ## Who is using Waku?
 
 ### Status

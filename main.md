@@ -48,19 +48,21 @@ You can
 ### Status
 
 Status is a secure messaging app, crypto wallet, and Web3 browser built with state-of-the-art technology.
+
 [Visit Status](https://status.im/)
 
 ### WalletConnect
 
 WalletConnect v2 is using Waku v2 for decentralized messaging infrastructure.
-[Visit WalletConnect](https://walletconnect.com/)
 
+[Visit WalletConnect](https://walletconnect.com/)
 
 ### RAILGUN
 
 RAILGUN is a privacy system for Ethereum that shields your assets in your own smart contract wallet.
 RAILGUN uses Waku when offering the ETH gas payments to other users,
 privately signaling fees and offers for gas payment relayers to keep the privacy & anonymity of your stablecoin & token transactions.
+
 [Visit RAILGUN](https://railgun.org/)
 
 ## Implementations
@@ -70,13 +72,13 @@ privately signaling fees and offers for gas payment relayers to keep the privacy
 A nim implementation of the Waku v2 protocol.
 Reference client and flagship implementation.
 
-[nwaku repository](https://github.com/status-im/nwaku).
+[nwaku repository](https://github.com/status-im/nwaku)
 
 ### js-waku
 
 A JavaScript implementation for browser environments.
 
-[js-waku docs](https://docs.wakuconnect.dev/).
+[js-waku docs](https://docs.wakuconnect.dev/)
 
 ### go-waku
 
@@ -89,4 +91,4 @@ C-Bindings are also available with C#, Swift and Kotlin examples.
 
 Integrate Waku in your React Native app using go-waku for mobile.
 
-[@waku/react-native repo](https://github.com/status-im/waku-react-native).
+[@waku/react-native repo](https://github.com/status-im/waku-react-native)

@@ -41,7 +41,7 @@ You can
 
 - [Run a Waku node](/operator)
 - [Integrate Waku in your application](/platform)
-- [Contribute to Waku's research and development](/contribute)
+- [Contribute to Waku](/contribute)
 
 ## Who is using Waku?
 

@@ -16,8 +16,11 @@ Learn more [here](/contribute).
 ## Build Your Own Waku Application
 
 By integrating Waku in your application,
-you can contribute to the ecosystem by reporting bugs and missing features
-but also inspire other developers in using Waku for various use cases.
+you may contribute by:
+
+- Running Waku node within your application,
+- Reporting bugs and missing features to the development teams,
+- Inspire other developers in using Waku for various use cases.
 
 [Get started now](/platform).
 

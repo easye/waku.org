@@ -19,40 +19,23 @@
   },
   "template": "default",
   "static_assets_folder": "static-assets",
-  "external_sources": [
-    {
-      "url": "https://github.com/vacp2p/vac.dev/archive/refs/heads/develop.zip",
-      "sourcePath": "_posts",
-      "targetPath": "blog",
-      "embed": false
-    }
-  ],
   "navigation": {
     "home": "main.md",
     "fileOrdersInSidenav": [
       "main.md",
-      "about.md"
+      "about.md",
+      "platform.md",
+      "operator.md",
+      "contribute.md"
     ],
     "folderOrdersInSidenav": [
-      "implementations",
-      "blog",
       "docs"
     ],
     "external_links": [
       {
-        "text": "go-waku",
-        "url": "https://github.com/status-im/go-waku",
-        "category": "Install"
-      },
-      {
-        "text": "nim-waku",
-        "url": "https://github.com/status-im/nwaku/",
-        "category": "Install"
-      },
-      {
-        "text": "js-waku",
-        "url": "https://github.com/status-im/js-waku",
-        "category": "Install"
+        "text": "Blog",
+        "url": "https://staging.vac.dev/research",
+        "category": "Links"
       }
     ]
   },

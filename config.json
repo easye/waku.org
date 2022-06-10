@@ -1,21 +1,21 @@
 {
-  "theme":{
-    "palettes":{
-      "dark":{
-        "background":"#1F1E42",
-        "text":"#F3DDC3",
-        "accentActive":"#7187FF",
-        "accentMute":"#49445C"
+  "theme": {
+    "palettes": {
+      "dark": {
+        "background": "#1F1E42",
+        "text": "#F3DDC3",
+        "accentActive": "#7187FF",
+        "accentMute": "#49445C"
       },
-      "light":{
-        "background":"#F3DDC3",
-        "text":"#1F1E42",
-        "accentActive":"#7187FF",
-        "accentMute":"#C9B7A9"
+      "light": {
+        "background": "#F3DDC3",
+        "text": "#1F1E42",
+        "accentActive": "#7187FF",
+        "accentMute": "#C9B7A9"
       }
     },
-    "fontFamily":"monospace",
-    "codeTheme":"prism/duotone-dark"
+    "fontFamily": "monospace",
+    "codeTheme": "prism/duotone-dark"
   },
   "template": "default",
   "static_assets_folder": "static-assets",
@@ -27,8 +27,8 @@
       "embed": false
     }
   ],
-  "navigation":{
-    "home":"main.md",
+  "navigation": {
+    "home": "main.md",
     "fileOrdersInSidenav": [
       "main.md",
       "about.md"
@@ -49,7 +49,7 @@
         "url": "https://github.com/status-im/nwaku/",
         "category": "Install"
       },
-     {
+      {
         "text": "js-waku",
         "url": "https://github.com/status-im/js-waku",
         "category": "Install"

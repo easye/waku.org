@@ -17,7 +17,7 @@ Finally, if you want to learn how Waku works under the hoods, check the specs at
 We are currently in the process of migrating our documentation.
 For now, please go to the following location to learn more about Waku:
 
-- [Waku General Concepts](/docs/waku)
+- [Waku General Concepts](/docs/main)
 - [js-waku](https://docs.wakuconnect.dev/)
 - [nwaku](https://github.com/status-im/nwaku)
 - [go-waku](https://github.com/status-im/go-waku)

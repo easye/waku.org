@@ -46,7 +46,7 @@
       },
       {
         "text": "nim-waku",
-        "url": "https://github.com/status-im/nim-waku/",
+        "url": "https://github.com/status-im/nwaku/",
         "category": "Install"
       },
      {
@@ -65,7 +65,7 @@
     "social_media": [
       {
         "provider": "twitter",
-        "handler": "vacp2p"
+        "handler": "waku_org"
       },
       {
         "provider": "discord",
@@ -73,7 +73,7 @@
       },
       {
         "provider": "github",
-        "handler": "vacp2p"
+        "handler": "status-im"
       }
     ]
   }

@@ -1,5 +1,5 @@
 ---
-title: Run a node
+title: Run a Waku v1 node
 category: page
 ---
 ## Run a node

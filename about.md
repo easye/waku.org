@@ -4,12 +4,12 @@ category: page
 ---
 
 ## About
+
 Communication today is rife with third party interference. From censorship and deplatforming, to rent seeking intermediaries, to the misuse of data in the surveillance economy.
 
 Waku is designed to place control of communication back into the hands of the individual.
 
 ## Motivation and goals
-> Digital signature, public key difficulty hashrate whitepaper, Merkle Tree double-spend Mempool outputs, double-spend problem?
 
 ### Privacy
 These applications have a desire for some privacy guarantees, such as pseudonymity, metadata protection in transit, etc.
@@ -28,7 +28,9 @@ These applications often run in constrained environments, where resources or the
 
 
 ## History
-> Only Waku v1 was a fork of Whisper with some added tweaks for efficiency. Waku v2 is a completely redesigned suite of protocols designed to address the goals set out in the "Motivation and goals" section.
+
+Waku v1 was a fork of Whisper with some added tweaks for efficiency.
+Waku v2 is a completely redesigned suite of protocols designed to address the goals set out above.
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'HISTORY'}} }%%

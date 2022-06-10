@@ -10,4 +10,4 @@ It is aimed to be a more accessible than the [Waku v2 RFCs](https://rfc.vac.dev/
 
 ## Guides
 
-- [How to Choose a Content Topic](./choose_content_topic)
+- [How to Choose a Content Topic](/docs/main/choose_content_topic)
